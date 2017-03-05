@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zhangzju/timelineLiYuQing/issues"
   },
-  "homepage": "https://github.com/zhangzju/timelineLiYuQing#readme"
+  "homepage": "https://github.com/zhangzju/timelineLiYuQing#readme",
+  "dependencies": {
+    "echarts": "^3.4.0",
+    "echarts-wordcloud": "^1.0.3"
+  }
 }
